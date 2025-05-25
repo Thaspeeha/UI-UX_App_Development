@@ -62,7 +62,8 @@ These personas helped us align the app with real user needs, abilities, and goal
 
 
 ## 📌 Status
-✅ Functional prototype completed  
+✅ Functional prototype completed 
+
 🔄 Evaluation Report
 
 ## 🌟 Future Improvements
@@ -77,7 +78,7 @@ These personas helped us align the app with real user needs, abilities, and goal
 - **Tools Used:** Figma, Google Docs, Canva  
 - **Team Size:** 5 members
 
-## 📷 Reporting of Evaluation
+## 📷 Evaluation Report
 *Coming soon*
 
 ## 📝 License
