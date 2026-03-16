@@ -71,12 +71,16 @@ These personas helped us align the app with real user needs, abilities, and goal
 - Voice assistant compatibility.
 - Security alert system with geolocation.
 
-
-
 ## 👥 Team & Contributions
 - **Role:** UI/UX Designer, Research Contributor & reporting  
 - **Tools Used:** Figma, Google Docs, Canva  
 - **Team Size:** 5 members
+
+## 👥 Contributors
+[![Aqib Ashraf](https://img.shields.io/badge/Aqib-Ashraf-purple)](https://www.linkedin.com/in/aqib-ashraf-2b4778244/)
+[![Thaneesha Sreenivasan](https://img.shields.io/badge/Thaneesha-Sreenivasan-blue)](https://www.linkedin.com/in/thaneeshas/)
+![Mohammad Afnan](https://img.shields.io/badge/Mohammad-Afnan-blue)
+![Jasil](https://img.shields.io/badge/Jasil-blue)
 
 ## 📷 Evaluation Report
 *Coming soon*
