@@ -4,7 +4,7 @@ Lumina – Smart Home Automation UX App
 ## 📱 Overview
 **Lumina** is a smart home app prototype focused on **real-world usability**, **trust-building**, and **seamless interaction** across a wide range of user types. Designed in **Figma**, Lumina addresses modern needs in home automation with an emphasis on accessibility, personalization, and intuitive design.
 
-This project was developed by a team of five as part of a user-centered design challenge.
+This project was developed by a team of five as part of a user-centered design project.
 
 
 ## 🎯 Project Objective
